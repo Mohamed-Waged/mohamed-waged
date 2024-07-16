@@ -9,4 +9,3 @@ in popular technologies such as HTML, CSS, Bootstrap, jQuery, and JavaScrip
 
 - 🌱 I’m currently learning Htm,Css,Bottstrap,JavaScript,PHP,OOP,Laravel
 - 📫 How to reach me: mohamedwaged1@gmail.com
-
